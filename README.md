@@ -1,1 +1,1 @@
-# backend_test_homework
+# Модуль фитнес-трекера
